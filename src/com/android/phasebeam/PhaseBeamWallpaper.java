@@ -44,7 +44,6 @@ public class PhaseBeamWallpaper extends WallpaperService {
         public void destroyRenderer() {
             if (mWallpaperRS != null) {
                 mWallpaperRS.stop();
-                mWallpaperRS.uninit();
                 mWallpaperRS = null;
             }
 
@@ -81,8 +80,7 @@ public class PhaseBeamWallpaper extends WallpaperService {
 
             if (mWallpaperRS == null) {
                 mWallpaperRS = new PhaseBeamRS();
-                mWallpaperRS.init(PhaseBeamWallpaper.this, mDensityDPI,
-                        mRenderScript, getResources(), width, height);
+                mWallpaperRS.init(mDensityDPI, mRenderScript, getResources(), width, height);
                 mWallpaperRS.start();
             }
 
