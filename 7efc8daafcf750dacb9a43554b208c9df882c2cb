@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_0360ad34",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-18T08:51:20Z",
+      "side": 1,
+      "message": "Verdammt, ich hatte gerade nachgesehen und festgestellt, dass ich - anders als ich in Erinnerung hatte - gar nicht \u0027Allow ...\u0027 verwendet hatte. IMHO ist der alte String so OK wie er ist - ich werd das morgen mal wieder zurück nehmen, wenn das OK für dich ist - sorry für den Aufwand :(",
+      "revId": "7efc8daafcf750dacb9a43554b208c9df882c2cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
