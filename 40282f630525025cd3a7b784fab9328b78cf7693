@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_23092996",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-18T05:46:29Z",
+      "side": 1,
+      "message": "Hmm, das ist mir in Anbetracht der Tatsache, dass das eine Checkbox-Beschriftung ist, etwas allgemein. Wie wäre es mit \u0027Eigene Farben festlegen\u0027 oder \u0027Strahlen einfärben\u0027 oder so?\n\nInzwischen bin ich mit meinem englischen Originalstring auch nicht mehr so glücklich, das sollte auch \u0027Recolor beams\u0027 oder \u0027Usw custom colors\u0027 oder so sein. Wenn du dafür noch eine gute Idee hättest und/oder das gleich mit andern könntest, wäre das nett. :)",
+      "revId": "40282f630525025cd3a7b784fab9328b78cf7693",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_a3ce9958",
+        "filename": "res/values-de/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-18T05:46:29Z",
+      "side": 1,
+      "message": "Farbton?",
+      "revId": "40282f630525025cd3a7b784fab9328b78cf7693",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
