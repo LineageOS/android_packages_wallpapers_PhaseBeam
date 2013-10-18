@@ -16,6 +16,24 @@
       "revId": "7efc8daafcf750dacb9a43554b208c9df882c2cb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_8354bd54",
+        "filename": "res/values/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-10-18T08:56:49Z",
+      "side": 1,
+      "message": "Ich kann das auch gleich machen.",
+      "parentUuid": "3a50d1a3_0360ad34",
+      "revId": "7efc8daafcf750dacb9a43554b208c9df882c2cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
