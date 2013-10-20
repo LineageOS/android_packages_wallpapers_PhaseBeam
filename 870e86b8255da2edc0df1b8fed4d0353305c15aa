@@ -34,6 +34,24 @@
       "revId": "870e86b8255da2edc0df1b8fed4d0353305c15aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_5c1a1270",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 7221
+      },
+      "writtenOn": "2013-10-20T07:20:06Z",
+      "side": 1,
+      "message": "\u0027Kleuren aanpassen\u0027 geniet mijn voorkeur",
+      "parentUuid": "3a50d1a3_39f2b89b",
+      "revId": "870e86b8255da2edc0df1b8fed4d0353305c15aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
