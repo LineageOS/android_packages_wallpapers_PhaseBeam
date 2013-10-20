@@ -16,6 +16,24 @@
       "revId": "870e86b8255da2edc0df1b8fed4d0353305c15aa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_39f2b89b",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-10-20T00:59:28Z",
+      "side": 1,
+      "message": "Misschien alleen \u0027Kleuren\u0027? Dat doet het Spaans ook",
+      "parentUuid": "3a50d1a3_d902b46f",
+      "revId": "870e86b8255da2edc0df1b8fed4d0353305c15aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
