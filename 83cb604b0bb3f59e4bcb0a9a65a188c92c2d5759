@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_1774639a",
+        "filename": "src/com/android/phasebeam/PhaseBeamRS.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-10-21T06:08:28Z",
+      "side": 1,
+      "message": "mContext.getResources() -\u003e mRes",
+      "revId": "83cb604b0bb3f59e4bcb0a9a65a188c92c2d5759",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
