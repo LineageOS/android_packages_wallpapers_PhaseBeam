@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_b0b57e7f",
+        "filename": "res/values-hu/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-10-28T06:53:13Z",
+      "side": 1,
+      "message": "Telítettség szebben hangzik",
+      "revId": "f52fd985683c84d14648de0bd051f6a1d6cfde56",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
