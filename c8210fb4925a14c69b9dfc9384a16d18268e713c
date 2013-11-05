@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa1b9901_8086fab7",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-11-05T10:44:04Z",
+      "side": 1,
+      "message": "de faisceau \u003d\u003e du faisceau \n\nUn doute, mais plus français.",
+      "revId": "c8210fb4925a14c69b9dfc9384a16d18268e713c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
