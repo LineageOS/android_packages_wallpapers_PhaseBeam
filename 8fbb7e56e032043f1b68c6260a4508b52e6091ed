@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a5ae5dd_0b90e194",
+        "filename": "res/values-pl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2014-01-05T01:13:37Z",
+      "side": 1,
+      "message": "\"kolor promienia\" or \"wi?zki ?wiat?a\"",
+      "revId": "8fbb7e56e032043f1b68c6260a4508b52e6091ed",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
