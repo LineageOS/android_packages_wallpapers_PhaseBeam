@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">Regola colori fascio</string>
-  <string name="color_label">Colore</string>
-  <string name="saturation_label">Saturazione</string>
-  <string name="brightness_label">Luminosità</string>
+  <string name="enable_recoloring">Ajustar cores do feixe</string>
+  <string name="color_label">Côr</string>
+  <string name="saturation_label">Saturação</string>
+  <string name="brightness_label">Brilho</string>
 </resources>
