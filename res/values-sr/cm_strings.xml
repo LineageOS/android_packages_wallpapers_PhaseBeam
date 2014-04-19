@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">Axustar los colores</string>
-  <string name="color_label">Color</string>
-  <string name="saturation_label">Saturación</string>
-  <string name="brightness_label">Brillu</string>
+  <string name="enable_recoloring">Подешавање снопа боје</string>
+  <string name="color_label">Боја</string>
+  <string name="saturation_label">Засићење</string>
+  <string name="brightness_label">Осветљење</string>
 </resources>
