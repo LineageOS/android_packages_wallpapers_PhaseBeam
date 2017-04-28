@@ -15,4 +15,9 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+  <string name="enable_recoloring">Rregullo ngjyrat</string>
+  <string name="color_label">Ngjyra</string>
+  <string name="saturation_label">Saturimi</string>
+  <string name="brightness_label">Ndriçimi</string>
+</resources>

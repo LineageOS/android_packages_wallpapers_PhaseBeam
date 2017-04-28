@@ -15,4 +15,9 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+  <string name="enable_recoloring">Adjust beam colours</string>
+  <string name="color_label">Colour</string>
+  <string name="saturation_label">Saturation</string>
+  <string name="brightness_label">Brightness</string>
+</resources>
