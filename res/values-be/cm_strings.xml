@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">Змяніць колер</string>
-  <string name="color_label">Колер</string>
-  <string name="saturation_label">Насычанасць</string>
-  <string name="brightness_label">Яркасць</string>
+    <string name="enable_recoloring">Змяніць колер</string>
+    <string name="color_label">Колер</string>
+    <string name="saturation_label">Насычанасць</string>
+    <string name="brightness_label">Яркасць</string>
 </resources>

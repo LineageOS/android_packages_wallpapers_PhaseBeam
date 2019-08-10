@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">Verstel kleure</string>
-  <string name="color_label">Kleur</string>
-  <string name="saturation_label">Versadigingspunt</string>
-  <string name="brightness_label">Helderheid</string>
+    <string name="enable_recoloring">Verstel kleure</string>
+    <string name="color_label">Kleur</string>
+    <string name="saturation_label">Versadigingspunt</string>
+    <string name="brightness_label">Helderheid</string>
 </resources>

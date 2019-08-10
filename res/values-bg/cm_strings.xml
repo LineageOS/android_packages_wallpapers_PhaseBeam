@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">Настройка на цветовете</string>
-  <string name="color_label">Цвят</string>
-  <string name="saturation_label">Насищане</string>
-  <string name="brightness_label">Яркост</string>
+    <string name="enable_recoloring">Настройка на цветовете</string>
+    <string name="color_label">Цвят</string>
+    <string name="saturation_label">Насищане</string>
+    <string name="brightness_label">Яркост</string>
 </resources>

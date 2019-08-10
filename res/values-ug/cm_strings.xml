@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">نۇر دەستە رەڭگىنى تەڭشەش</string>
-  <string name="color_label">رەڭ</string>
-  <string name="saturation_label">تويۇنۇش</string>
-  <string name="brightness_label">يورۇقلۇق</string>
+    <string name="enable_recoloring">نۇر دەستە رەڭگىنى تەڭشەش</string>
+    <string name="color_label">رەڭ</string>
+    <string name="saturation_label">تويۇنۇش</string>
+    <string name="brightness_label">يورۇقلۇق</string>
 </resources>

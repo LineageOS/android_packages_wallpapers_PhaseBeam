@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">प्रकाशकिरण रंग समायोजित करा</string>
-  <string name="color_label">रंग</string>
-  <string name="saturation_label">संपृक्तता</string>
-  <string name="brightness_label">चकाकी</string>
+    <string name="enable_recoloring">प्रकाशकिरण रंग समायोजित करा</string>
+    <string name="color_label">रंग</string>
+    <string name="saturation_label">संपृक्तता</string>
+    <string name="brightness_label">चकाकी</string>
 </resources>

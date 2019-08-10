@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">Dostosuj kolor wiązki światła</string>
-  <string name="color_label">Kolor</string>
-  <string name="saturation_label">Nasycenie</string>
-  <string name="brightness_label">Jasność</string>
+    <string name="enable_recoloring">Dostosuj kolor wiązki światła</string>
+    <string name="color_label">Kolor</string>
+    <string name="saturation_label">Nasycenie</string>
+    <string name="brightness_label">Jasność</string>
 </resources>

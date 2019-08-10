@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">Farben anpassen</string>
-  <string name="color_label">Farbton</string>
-  <string name="saturation_label">Sättigung</string>
-  <string name="brightness_label">Helligkeit</string>
+    <string name="enable_recoloring">Farben anpassen</string>
+    <string name="color_label">Farbton</string>
+    <string name="saturation_label">Sättigung</string>
+    <string name="brightness_label">Helligkeit</string>
 </resources>

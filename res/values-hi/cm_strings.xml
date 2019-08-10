@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">प्रकाश-पुंज के रंगों को समायोजित करें</string>
-  <string name="color_label">रंग</string>
-  <string name="saturation_label">संतृप्ति</string>
-  <string name="brightness_label">चमक</string>
+    <string name="enable_recoloring">प्रकाश-पुंज के रंगों को समायोजित करें</string>
+    <string name="color_label">रंग</string>
+    <string name="saturation_label">संतृप्ति</string>
+    <string name="brightness_label">चमक</string>
 </resources>

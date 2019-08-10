@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">বীম রঙ সমন্বয় করুন</string>
-  <string name="color_label">রঙ</string>
-  <string name="saturation_label">সম্পৃক্তি</string>
-  <string name="brightness_label">উজ্জ্বলতা</string>
+    <string name="enable_recoloring">বীম রঙ সমন্বয় করুন</string>
+    <string name="color_label">রঙ</string>
+    <string name="saturation_label">সম্পৃক্তি</string>
+    <string name="brightness_label">উজ্জ্বলতা</string>
 </resources>

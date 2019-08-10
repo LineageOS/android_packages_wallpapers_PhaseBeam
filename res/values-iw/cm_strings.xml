@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">התאם צבעים</string>
-  <string name="color_label">צבע</string>
-  <string name="saturation_label">רוויה</string>
-  <string name="brightness_label">בהירות</string>
+    <string name="enable_recoloring">התאם צבעים</string>
+    <string name="color_label">צבע</string>
+    <string name="saturation_label">רוויה</string>
+    <string name="brightness_label">בהירות</string>
 </resources>

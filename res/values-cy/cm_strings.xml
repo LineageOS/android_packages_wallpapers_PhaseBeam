@@ -15,4 +15,9 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+    <string name="enable_recoloring">Addasu lliwiau pelydrau</string>
+    <string name="color_label">Lliw</string>
+    <string name="saturation_label">Dyfnder Lliw</string>
+    <string name="brightness_label">Disgleirdeb</string>
+</resources>

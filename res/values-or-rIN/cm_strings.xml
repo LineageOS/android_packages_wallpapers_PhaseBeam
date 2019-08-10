@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">ବିମ୍‍ ରଙ୍ଗ ଆଡ୍‍ଜଷ୍ଟ କରନ୍ତୁ</string>
-  <string name="color_label">ରଙ୍ଗ</string>
-  <string name="saturation_label">ସମ୍ପୃକ୍ତି</string>
-  <string name="brightness_label">ଔଜଲ୍ୟତା</string>
+    <string name="enable_recoloring">ବିମ୍‍ ରଙ୍ଗ ଆଡ୍‍ଜଷ୍ଟ କରନ୍ତୁ</string>
+    <string name="color_label">ରଙ୍ଗ</string>
+    <string name="saturation_label">ସମ୍ପୃକ୍ତି</string>
+    <string name="brightness_label">ଔଜଲ୍ୟତା</string>
 </resources>

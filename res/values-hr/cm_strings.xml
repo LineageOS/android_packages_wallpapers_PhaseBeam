@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">Podesi beam boju</string>
-  <string name="color_label">Boja</string>
-  <string name="saturation_label">Saturacija</string>
-  <string name="brightness_label">Svjetlina</string>
+    <string name="enable_recoloring">Podesi beam boju</string>
+    <string name="color_label">Boja</string>
+    <string name="saturation_label">Saturacija</string>
+    <string name="brightness_label">Svjetlina</string>
 </resources>

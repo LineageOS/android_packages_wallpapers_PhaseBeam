@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">Faarwen ajustéieren</string>
-  <string name="color_label">Faarf</string>
-  <string name="saturation_label">Siedegung</string>
-  <string name="brightness_label">Hellegkeet</string>
+    <string name="enable_recoloring">Faarwen ajustéieren</string>
+    <string name="color_label">Faarf</string>
+    <string name="saturation_label">Siedegung</string>
+    <string name="brightness_label">Hellegkeet</string>
 </resources>

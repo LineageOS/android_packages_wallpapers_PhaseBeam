@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">Juster strålefarger</string>
-  <string name="color_label">Farge</string>
-  <string name="saturation_label">Metning</string>
-  <string name="brightness_label">Lysstyrke</string>
+    <string name="enable_recoloring">Juster strålefarger</string>
+    <string name="color_label">Farge</string>
+    <string name="saturation_label">Metning</string>
+    <string name="brightness_label">Lysstyrke</string>
 </resources>

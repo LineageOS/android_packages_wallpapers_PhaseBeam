@@ -15,4 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+    <string name="color_label">Colore</string>
+    <string name="saturation_label">Saturatzione</string>
+</resources>

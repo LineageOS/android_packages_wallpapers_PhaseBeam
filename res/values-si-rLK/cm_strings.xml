@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">කදම්බ පැහැයන් සීරුමාරු කරන්න</string>
-  <string name="color_label">පැහැය</string>
-  <string name="saturation_label">සන්තෘප්තිය</string>
-  <string name="brightness_label">දීප්තිය</string>
+    <string name="enable_recoloring">කදම්බ පැහැයන් සීරුමාරු කරන්න</string>
+    <string name="color_label">පැහැය</string>
+    <string name="saturation_label">සන්තෘප්තිය</string>
+    <string name="brightness_label">දීප්තිය</string>
 </resources>

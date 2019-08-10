@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="enable_recoloring">Pielāgojiet gaismas krāsas</string>
-  <string name="color_label">Krāsas</string>
-  <string name="saturation_label">Piesātinājums</string>
-  <string name="brightness_label">Spilgtums</string>
+    <string name="enable_recoloring">Pielāgojiet gaismas krāsas</string>
+    <string name="color_label">Krāsas</string>
+    <string name="saturation_label">Piesātinājums</string>
+    <string name="brightness_label">Spilgtums</string>
 </resources>
